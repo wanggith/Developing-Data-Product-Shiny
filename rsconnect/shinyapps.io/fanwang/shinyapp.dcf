@@ -1,0 +1,9 @@
+name: shinyapp
+account: fanwang
+server: shinyapps.io
+appId: 103582
+bundleId: 458945
+url: https://fanwang.shinyapps.io/shinyapp/
+when: 1463887325.10884
+asMultiple: FALSE
+asStatic: FALSE
